@@ -1,0 +1,4 @@
+  driverClassName: org.postgresql.Driver
+  url: jdbc-url-here
+  username: username-here
+  password: password-here
